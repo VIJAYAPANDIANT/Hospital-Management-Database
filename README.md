@@ -6,6 +6,12 @@ This project is perfectly suited for building the backend data foundation of hea
 
 ---
 
+## 📂 Document
+
+### https://drive.google.com/file/d/1WnLNYoLySju8G9t6Q9q1rP5FWfFITFR3/view?usp=sharing
+
+---
+
 ## 📖 Project Overview
 
 A Hospital Management System (HMS) handles complex daily operations: patient registrations, doctor scheduling, treatment tracking, and financial billing. This database is modeled to capture these real-world workflows accurately, ensuring data integrity, performance, and scalability.
